@@ -1,0 +1,29 @@
+PERSONALIZED RECOMMENDATIONS
+==================================================
+User       : Arun
+Background : Computer Science
+Interests  : Artificial Intelligence, Python
+Skill Level: Beginner
+Goal       : Learn AI
+Generated  : 10/10/2026 20:36
+==================================================
+
+1. Andrew Ng
+   Score  : 95%
+   Reason : A renowned expert in AI, offering comprehensive courses on machine learning and deep learning.
+
+2. Stanford University's Natural Language Processing with Deep Learning on Stanford Online
+   Score  : 92%
+   Reason : Focusing on the intersection of NLP and deep learning, suitable for beginners aiming to learn AI.
+
+3. Stanford University's Machine Learning Course
+   Score  : 90%
+   Reason : Covering fundamental concepts of machine learning with a focus on theoretical foundations.
+
+4. Google's Machine Learning Crash Course
+   Score  : 88%
+   Reason : Offering an introduction to machine learning and deep learning through interactive exercises and quizzes.
+
+5. Python for Data Science with AI Cookbook
+   Score  : 85%
+   Reason : Providing practical examples to apply Python to various AI tasks, ideal for beginners.

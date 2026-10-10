@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "name": "Andrew Ng",
+      "score": 95,
+      "reason": "A renowned expert in AI, offering comprehensive courses on machine learning and deep learning."
+    },
+    {
+      "name": "Stanford University's Machine Learning Course",
+      "score": 90,
+      "reason": "Covering fundamental concepts of machine learning with a focus on theoretical foundations."
+    },
+    {
+      "name": "Python for Data Science with AI Cookbook",
+      "score": 85,
+      "reason": "Providing practical examples to apply Python to various AI tasks, ideal for beginners."
+    },
+    {
+      "name": "Google's Machine Learning Crash Course",
+      "score": 88,
+      "reason": "Offering an introduction to machine learning and deep learning through interactive exercises and quizzes."
+    },
+    {
+      "name": "Stanford University's Natural Language Processing with Deep Learning on Stanford Online",
+      "score": 92,
+      "reason": "Focusing on the intersection of NLP and deep learning, suitable for beginners aiming to learn AI."
+    }
+  ],
+  "profile_name": "Arun"
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+screenshots/crop/
+.DS_Store
